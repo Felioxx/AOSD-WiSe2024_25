@@ -1,0 +1,10 @@
+name: shinyapp
+title:
+username: felioxx
+account: felioxx
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14169137
+bundleId: 9897717
+url: https://felioxx.shinyapps.io/shinyapp/
+version: 1
